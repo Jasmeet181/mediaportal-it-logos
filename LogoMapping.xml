@@ -2367,23 +2367,18 @@
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
       <Item Name="Telenova 2">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
       <Item Name="Telenova 4">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
       <Item Name="Telenova 5">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
       <Item Name="Telenova HD">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
       <Item Name="Telenova+1">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
