@@ -1369,6 +1369,7 @@
       <Item Name="OKItalia TV1">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
+    </Channel>
     <Channel>
       <Item Name="OKItalia TV2">
         <Provider>Terrestrial (Milan)</Provider>
@@ -2691,15 +2692,13 @@
         <File>Unire Sat HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Uno Extra">***
+      <Item Name="Uno Extra">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
-      <Item Name="Uno Plus">***
+      <Item Name="Uno Plus">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-    <Channel>
-      <Item Name="Uno Set">***
+      <Item Name="Uno Set">
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
       <Item Name="Uno TV">
