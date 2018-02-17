@@ -1583,6 +1583,15 @@
         <File>Radio Freccia.png</File>
     </Channel>
     <Channel>
+      <Item Name="Radio Italia Rap TV">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+      <Item Name="Radio Italia Rap TV HD">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Radio Italia Rap TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Radio Italia TV HD">
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
@@ -2707,6 +2716,12 @@
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
         <File>Uno TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Venti">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Venti.png</File>
     </Channel>
     <Channel>
       <Item Name="Vero">
