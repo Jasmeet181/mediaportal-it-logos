@@ -1657,6 +1657,12 @@
         <File>Radio Zeta.png</File>
     </Channel>
     <Channel>
+      <Item Name="Radio Zeta HD">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Radio Zeta HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Radionorba TV">
         <Provider>Full Name (IT)</Provider>
       </Item>
@@ -2885,6 +2891,12 @@
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
         <File>Radio Alta.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Beckwith Evangelica">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Radio Beckwith Evangelica.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Bergamo">
