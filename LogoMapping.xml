@@ -2813,6 +2813,15 @@
       </Item>
         <File>Winga TV.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Zelig TV">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+      <Item Name="Zelig243">
+        <Provider>Terrestrial (Milan)</Provider>
+      </Item>
+        <File>Zelig TV.png</File>
+    </Channel>
   </TV>
   <!-- ******************************************************************** -->
   <Radio>
