@@ -1299,6 +1299,12 @@
         <File>Milanow.png</File>
     </Channel>
     <Channel>
+      <Item Name="Motor Trend">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Motor Trend.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Motori TV">
         <Provider>Full Name (IT)</Provider>
       </Item>
@@ -2027,6 +2033,12 @@
         <Provider>Full Name (IT)</Provider>
       </Item>
         <File>San Marino RTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="San Marino RTV HD">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>San Marino RTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="SeilaTV">
