@@ -1249,6 +1249,12 @@
         <File>Maria Vision Italia.png</File>
     </Channel>
     <Channel>
+      <Item Name="Match Music">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Match Music.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Matrix TV Italia">
         <Provider>Full Name (IT)</Provider>
       </Item>
@@ -1312,12 +1318,6 @@
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
         <File>Motori TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Music Match">
-        <Provider>Full Name (IT)</Provider>
-      </Item>
-        <File>Music Match.png</File>
     </Channel>
     <Channel>
       <Item Name="Muzik TV">
