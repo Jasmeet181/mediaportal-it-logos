@@ -17,6 +17,19 @@
         <File>165.png</File>
     </Channel>
     <Channel>
+      <Item Name="20 Mediaset">
+        <Provider>Full Name (IT)</Provider>
+        <Provider>Terrestrial (Milan)</Provider>
+      </Item>
+        <File>20 Mediaset.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="20 Mediaset HD">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>20 Mediaset HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="2M Monde">
         <Provider>Full Name (IT)</Provider>
       </Item>
@@ -2734,12 +2747,6 @@
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
         <File>Uno TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Venti">
-        <Provider>Full Name (IT)</Provider>
-      </Item>
-        <File>Venti.png</File>
     </Channel>
     <Channel>
       <Item Name="Vero">
