@@ -1320,6 +1320,7 @@
     <Channel>
       <Item Name="Motor Trend">
         <Provider>Full Name (IT)</Provider>
+        <Provider>Terrestrial (Milan)</Provider>
       </Item>
         <File>Motor Trend.png</File>
     </Channel>
