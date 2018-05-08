@@ -778,6 +778,18 @@
         <File>France 24 - Francais.png</File>
     </Channel>
     <Channel>
+      <Item Name="France 24 HD - English">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>France 24 HD - English.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France 24 HD - Francais">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>France 24 HD - Francais.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Frisbee">
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
