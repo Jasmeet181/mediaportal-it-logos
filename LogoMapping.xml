@@ -1299,6 +1299,13 @@
         <File>Mediaset Extra.png</File>
     </Channel>
     <Channel>
+      <Item Name="Mediaset Extra HD">
+        <Provider>Full Name (IT)</Provider>
+        <Provider>Terrestrial (Milan)</Provider>
+      </Item>
+        <File>Mediaset Extra HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Mediaset TGCom24">
         <Provider>Full Name (IT)</Provider>
       </Item>
@@ -3281,6 +3288,15 @@
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
         <File>Rai Radio 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rai Radio 1 Sport">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+      <Item Name="Rai Radio1 Sport">
+        <Provider>Terrestrial (Milan)</Provider>
+      </Item>
+        <File>Rai Radio 1 Sport.png</File>
     </Channel>
     <Channel>
       <Item Name="Rai Radio 2">
