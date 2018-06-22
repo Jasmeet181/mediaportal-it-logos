@@ -3308,6 +3308,15 @@
         <File>Rai Radio 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="Rai Radio 2 Indie">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+      <Item Name="Rai Radio2 Indie">
+        <Provider>Terrestrial (Milan)</Provider>
+      </Item>
+        <File>Rai Radio 2 Indie.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Rai Radio 3">
         <Provider>Full Name (IT)</Provider>
       </Item>
