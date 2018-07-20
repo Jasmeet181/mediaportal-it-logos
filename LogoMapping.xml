@@ -1905,6 +1905,12 @@
         <File>Rai YoYo.png</File>
     </Channel>
     <Channel>
+      <Item Name="RDS Social TV">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>RDS Social TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Real Time">
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
