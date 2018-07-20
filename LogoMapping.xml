@@ -1472,12 +1472,6 @@
         <File>Parole di Vita.png</File>
     </Channel>
     <Channel>
-      <Item Name="Pescare and Cacciare TV">
-        <Provider>Full Name (IT)</Provider>
-      </Item>
-        <File>Pescare and Cacciare TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Pianeta TV">
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
@@ -3088,6 +3082,12 @@
         <File>Radio Marconi.png</File>
     </Channel>
     <Channel>
+      <Item Name="Radio Margherita">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>Radio Margherita.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Radio Maria">
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
@@ -3371,6 +3371,12 @@
         <Provider>Full Name (IT)</Provider>
       </Item>
         <File>RDS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RMC Sport Network">
+        <Provider>Full Name (IT)</Provider>
+      </Item>
+        <File>RMC Sport Network.png</File>
     </Channel>
     <Channel>
       <Item Name="RSI Rete Due">
