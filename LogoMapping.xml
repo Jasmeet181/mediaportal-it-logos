@@ -1142,10 +1142,14 @@
         <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
+        <File>LA7d.png</File>
+    </Channel>
+    <Channel>
       <Item Name="LA7d HD">
+        <Provider>Full Name (IT)</Provider>
         <Provider>Terrestrial (Milan)</Provider>
       </Item>
-        <File>LA7d.png</File>
+        <File>LA7d HD.png</File>
     </Channel>
     <Channel>
       <Item Name="La 8">
