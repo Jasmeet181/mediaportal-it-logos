@@ -2631,6 +2631,12 @@
   			<File>TRC.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Tricks">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Tricks.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TRM H24">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
