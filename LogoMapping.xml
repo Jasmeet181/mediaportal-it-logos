@@ -2812,6 +2812,12 @@
   			<File>Video Brescia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Videolina">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Videolina.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="VideoNovara">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -2867,11 +2873,11 @@
   			<File>Winga TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Zelig Sport">
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
 			<Item Name="Zelig TV">
 				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Zelig243">
-				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Zelig TV.png</File>
 		</Channel>
