@@ -1400,6 +1400,12 @@
   			<File>Nove.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NSL Radio TV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>NSL Radio TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nuvola61">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
