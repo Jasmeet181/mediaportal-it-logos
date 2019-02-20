@@ -1367,6 +1367,12 @@
   			<File>Muzik TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NASA UHD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>NASA UHD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NBC Milano We Play Again">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
