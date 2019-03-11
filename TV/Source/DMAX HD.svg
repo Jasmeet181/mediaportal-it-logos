@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg36" width="112.39mm" height="42.146mm" version="1.1" viewBox="0 0 112.39 42.146" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg id="svg36" width="158.75mm" height="42.146mm" version="1.1" viewBox="0 0 158.75 42.146" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata id="metadata42">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -18,6 +18,13 @@
     <path id="path10" d="m11.968 34.324h4.9269l-1.8201-4.8647h-1.2867z"/>
     <path id="path12" d="m17.012 34.324h4.9047l-1.7156-2.5535 1.5734-2.3112h-4.618l1.5867 2.3112z"/>
    </g>
+  </g>
+ </g>
+ <g id="g904" transform="matrix(5.3097 0 0 5.3097 0 -147.5)">
+  <path id="rect4" d="m21.167 27.78h8.7312v7.9375h-8.7312z" fill="#595959" stroke-opacity="0"/>
+  <g id="g30" transform="matrix(.2051 0 0 .14544 -17.75 2.4177)" fill="#fff">
+   <path id="path26" d="m213.49 190.75v21.83h4.37c4.87 0 8-2.86 8-10.97 0-8.03-3.05-10.86-8-10.86zm2.9 3.18h1.76c3.4 0 4.8 2.13 4.8 7.68 0 5.72-1.4 7.87-4.77 7.87h-1.79z"/>
+   <path id="path28" d="m209.63 212.58h-2.89v-9.85h-6.37v9.85h-2.89v-21.83h2.89v8.76h6.37v-8.76h2.89v21.83"/>
   </g>
  </g>
 </svg>

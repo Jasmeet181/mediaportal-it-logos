@@ -618,6 +618,18 @@
   			<File>DMAX.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="DMAX +1">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>DMAX Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DMAX HD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>DMAX HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="DonnaTV">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -1932,6 +1944,18 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Real Time.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Real Time +1">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Real Time Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Real Time HD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Real Time HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Realitatea TV">
