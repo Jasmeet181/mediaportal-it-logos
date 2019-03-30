@@ -219,6 +219,12 @@
   			<File>Artetivu.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Aurora Arte">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Aurora Arte.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Automoto TV">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -563,15 +569,6 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Cine Sony.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Class Horse TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="ClassHorseTV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Class Horse TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Class TV Moda">
