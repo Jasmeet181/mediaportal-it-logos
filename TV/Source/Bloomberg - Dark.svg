@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="600" height="134.6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg version="1.1" viewBox="0 0 600 134.6" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(131.52 254.86)">
   <g transform="matrix(.99999 0 0 .99999 -89.901 55.556)">
    <path d="m-25.648-261.38h15.168c12.768 0 18.777 3.0813 18.777 11.883 0 11.048-11.27 12.359-19.424 12.359h-14.521v-24.242zm-15.798 37.061h31.954c16.803 0 33.588-5.703 33.588-24.004 0-10.793-8.0182-19.135-19.169-20.309v-0.25536c9.1418-2.6046 15.407-8.8694 15.407-18.403 0-15.321-13.789-21.161-27.187-21.161h-34.592v84.132zm15.798-71.279h13.023c11.917 0 17.177 3.575 17.177 10.81 0 6.2988-5.2604 10.589-15.798 10.589h-14.402v-21.399z"/>
