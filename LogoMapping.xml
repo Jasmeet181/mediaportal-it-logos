@@ -766,6 +766,12 @@
   			<File>Food Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Food Network HD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Food Network HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="France 2">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -817,6 +823,12 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Giallo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Giallo HD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Giallo HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Gold TV Italia">
@@ -1359,6 +1371,12 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Motor Trend.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motor Trend HD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Motor Trend HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Motori TV">
