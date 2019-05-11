@@ -630,6 +630,9 @@
 			<Item Name="DonnaTV">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
+			<Item Name="Donna Sport TV">
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
   			<File>DonnaTV.png</File>
 		</Channel>
 		<Channel>
@@ -735,6 +738,9 @@
 		<Channel>
 			<Item Name="Fight Network">
 				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="FN Sport">
+				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Fight Network.png</File>
 		</Channel>
@@ -1501,11 +1507,11 @@
   			<File>Padre Pio TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Paramount Channel">
+			<Item Name="Paramount Network">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
-  			<File>Paramount Channel.png</File>
+  			<File>Paramount Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Parole di Vita">
