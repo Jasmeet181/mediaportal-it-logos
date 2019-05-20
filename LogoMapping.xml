@@ -627,11 +627,11 @@
   			<File>DMAX HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DonnaTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
 			<Item Name="Donna Sport TV">
 				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+			<Item Name="DonnaTV">
+				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>DonnaTV.png</File>
 		</Channel>
@@ -1350,6 +1350,12 @@
   			<File>Mediaset TGCom24.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Mediasport Channel">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Mediasport Channel.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Mediatext">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -1519,6 +1525,12 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Parole di Vita.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Partenope TV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Partenope TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pianeta TV">
@@ -2113,6 +2125,12 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>RTL 102.5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL 102.5 Doc">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>RTL 102.5 Doc.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTR Planeta">
@@ -3085,6 +3103,12 @@
   			<File>Radio Deejay.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Eurospin">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Radio Eurospin.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Evangelo Torino">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -3260,6 +3284,12 @@
   			<File>Radio Punto.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Radicale">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Radio Radicale.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Radio">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -3318,6 +3348,12 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Radio Viva FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Voce della Speranza">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Radio Voce della Speranza.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Web Italia">
