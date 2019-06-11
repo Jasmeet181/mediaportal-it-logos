@@ -264,6 +264,12 @@
   			<File>Bergamo TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BFC">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>BFC.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bloomberg">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
