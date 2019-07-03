@@ -1,11 +1,10 @@
 <svg width="1202.2pt" height="895.78pt" version="1.1" viewBox="0 0 1202.2 895.78" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient966">
+  <radialGradient id="radialGradient968" cx="655.44" cy="881.55" r="415.03" gradientTransform="matrix(0 -1.4369 1.3443 0 -525.95 1793.2)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#abcbd3" offset="0"/>
    <stop stop-color="#abcbd3" offset=".43208"/>
    <stop stop-color="#87b6c1" offset="1"/>
-  </linearGradient>
-  <radialGradient id="radialGradient968" cx="655.44" cy="881.55" r="415.03" gradientTransform="matrix(0 -1.4369 1.3443 0 -525.95 1793.2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient966"/>
+  </radialGradient>
  </defs>
  <g transform="translate(-98.544 -252.63)">
   <g fill="url(#radialGradient968)">
