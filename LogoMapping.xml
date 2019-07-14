@@ -276,6 +276,13 @@
   			<File>Bloomberg.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Boing Plus">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Roma)</Provider>
+			</Item>
+  			<File>Boing Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Boing">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -1553,13 +1560,6 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Play.me.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Pop">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Pop.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prima Free">
