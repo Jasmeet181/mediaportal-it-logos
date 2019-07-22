@@ -1687,13 +1687,13 @@
   			<File>Radio Freccia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Italia Rap TV">
+			<Item Name="Radio Italia Trend TV">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
-			<Item Name="Radio Italia Rap TV HD">
+			<Item Name="Radio Italia Trend TV HD">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
-  			<File>Radio Italia Rap TV.png</File>
+  			<File>Radio Italia Trend TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Italia TV HD">
