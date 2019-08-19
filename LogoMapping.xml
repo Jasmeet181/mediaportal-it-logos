@@ -1297,12 +1297,6 @@
   			<File>Luxo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M2o TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>M2o TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Marcopolo">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -1647,12 +1641,6 @@
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>Radio Bruno TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Radio Capital TiVu">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Radio Capital TiVu.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Classica">
