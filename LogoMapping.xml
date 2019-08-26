@@ -2133,10 +2133,10 @@
   			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTS Un">
+			<Item Name="RTS 1">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
-  			<File>RTS Un.png</File>
+  			<File>RTS 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="San Marino RTV">
