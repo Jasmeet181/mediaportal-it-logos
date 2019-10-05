@@ -30,6 +30,15 @@
   			<File>20 Mediaset HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="249 TV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="249TV">
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>249 TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="2M Monde">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -229,6 +238,13 @@
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>Automoto TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Babayaga TV">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>Babayaga TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Babel TV">
@@ -1059,6 +1075,13 @@
   			<File>Italia Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Italia Network Television">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>Italia Network Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Italia +">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -1114,6 +1137,15 @@
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>KBC World HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 242">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="La242">
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>La 242.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="La 4 Italia">
@@ -1480,8 +1512,6 @@
 			<Item Name="OKItalia TV1">
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
-		</Channel>
-		<Channel>
 			<Item Name="OKItalia TV2">
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
@@ -1492,6 +1522,13 @@
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>OK Shop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Novara TV">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>Onda Novara TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="One TV NBC">
@@ -1554,6 +1591,13 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Play.me.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PopEconomy">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>PopEconomy.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prima Free">
@@ -1700,13 +1744,6 @@
   			<File>Radio Italia TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Monte Carlo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Monte Carlo.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Radio Milan Inter">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -1715,6 +1752,20 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Radio Milan Inter.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Monte Carlo">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>Radio Monte Carlo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Musica TV">
+				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>Radio Musica TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Number One TV">
@@ -2179,6 +2230,15 @@
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>Serenissima TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sesta Rete">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="Sestarete">
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+  			<File>Sesta Rete.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Shopping Italia">
