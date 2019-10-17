@@ -45,6 +45,15 @@
   			<File>2M Monde.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="4K Universe">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="4KUniverse">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>4KUniverse.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="7 Gold Musica">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
