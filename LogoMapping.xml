@@ -1753,6 +1753,15 @@
   			<File>Radio Italia TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Kiss Kiss">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="Radio Kiss Kiss TV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Radio Kiss Kiss.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Milan Inter">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -2045,10 +2054,10 @@
   			<File>Real Time HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Realitatea TV">
+			<Item Name="Realitatea Plus">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
-  			<File>Realitatea TV.png</File>
+  			<File>Realitatea Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rete 182">
