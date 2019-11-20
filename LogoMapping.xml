@@ -2840,12 +2840,6 @@
   			<File>TV Art Live.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Koper Capodistria">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>TV Koper Capodistria.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TV2000">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
