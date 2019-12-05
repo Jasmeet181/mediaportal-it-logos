@@ -1786,13 +1786,13 @@
   			<File>Radio Musica TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Number One TV">
+			<Item Name="Radio Number One">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
 			<Item Name="RN1TV...">
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
-  			<File>Radio Number One TV.png</File>
+  			<File>Radio Number One.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Popizz">
@@ -2422,6 +2422,12 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Tele Mantova.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tele Moda">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Tele Moda.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tele Monza Brianza 11">
