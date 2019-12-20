@@ -130,6 +130,12 @@
   			<File>Al Masriyah.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Alaraby TV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Alaraby TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alice">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -602,6 +608,12 @@
   			<File>Cielo.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cine 34">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Cine 34.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Class TV Moda">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -879,6 +891,18 @@
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>Gold TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HGTV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>HGTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HGTV HD">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>HGTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Hotbird 4K1">
@@ -1448,10 +1472,22 @@
   			<File>Motori TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Museum">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Museum.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Muzik TV">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
   			<File>Muzik TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="My Zen TV 4K">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>My Zen TV 4K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NASA UHD">
