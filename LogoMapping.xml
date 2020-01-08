@@ -143,13 +143,6 @@
   			<File>Alice.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Alpha">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Alpha.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Amici Animali Lombardia">
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
@@ -3553,11 +3546,11 @@
   			<File>Rai Radio 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio Classica">
+			<Item Name="Rai Radio 3 Classica">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
-  			<File>Rai Radio Classica.png</File>
+  			<File>Rai Radio 3 Classica.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai Radio Kids">
