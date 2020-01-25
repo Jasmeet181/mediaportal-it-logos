@@ -601,10 +601,11 @@
   			<File>Cielo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cine 34">
+			<Item Name="Cine34">
 				<Provider>Full Name (IT)</Provider>
+				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
-  			<File>Cine 34.png</File>
+  			<File>Cine34.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Class TV Moda">
@@ -1390,13 +1391,6 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Mediaset Extra.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Mediaset Extra 2">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Mediaset Extra 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mediaset Extra HD">
