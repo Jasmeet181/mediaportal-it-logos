@@ -2801,6 +2801,12 @@
   			<File>Top Tech.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Travelxp 4K HDR">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>Travelxp 4K HDR.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TRC">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
