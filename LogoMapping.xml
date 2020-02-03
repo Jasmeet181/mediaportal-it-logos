@@ -242,12 +242,6 @@
   			<File>Aurora Arte.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Automoto TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Automoto TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Babayaga TV">
 				<Provider>Full Name (IT)</Provider>
 				<Provider>Terrestrial (Milan)</Provider>
@@ -1409,12 +1403,6 @@
   			<File>Mediaset TGCom24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mediasport Channel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Mediasport Channel.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Mediatext">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
@@ -1457,6 +1445,18 @@
 				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Motori TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSChannel">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>MSChannel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSMotorTV">
+				<Provider>Full Name (IT)</Provider>
+			</Item>
+  			<File>MSMotorTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Museum">
