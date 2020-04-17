@@ -2171,6 +2171,15 @@
   			<File>Retesole.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Babel-Romit TV">
+				<Provider>Terrestrial (Milan)</Provider>
+			</Item>
+			<Item Name="Romit TV">
+				<Provider>Terrestrial (Roma)</Provider>
+			</Item>
+  			<File>Romit TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Rossiya 24">
 				<Provider>Full Name (IT)</Provider>
 			</Item>
