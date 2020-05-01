@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 01/05/2020 Alma TV launches -->
 	<TV>
 		<Channel>
 			<Item Name="105 TV">
@@ -146,6 +145,9 @@
 		<Channel>
 			<Item Name="Alma TV">
 				<Provider>Full Name (IT)</Provider>
+			</Item>
+			<Item Name="Alma TV - Alice &amp; Marcopolo">
+				<Provider>Terrestrial (Milan)</Provider>
 			</Item>
   			<File>Alma TV.png</File>
 		</Channel>
