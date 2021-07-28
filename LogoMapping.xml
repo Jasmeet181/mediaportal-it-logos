@@ -1,3688 +1,3047 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!--
+		
+		-->
 	<TV>
 		<Channel>
-			<Item Name="105 TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="105 TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>105 TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="165">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="165">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>165.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="20 Mediaset">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>20 Mediaset.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="20 Mediaset HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="20 Mediaset HD" />
   			<File>20 Mediaset HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="249 TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="249TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="20 Mediaset">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>20 Mediaset.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="249 TV" />
+				<Item Name="249TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>249 TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="2M Monde">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="2M Monde" />
   			<File>2M Monde.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="4K Universe">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="4KUniverse">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="4K Universe" />
+				<Item Name="4KUniverse" />
   			<File>4KUniverse.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="7 Gold Musica">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="7 Gold Musica" />
   			<File>7 Gold Musica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="7 Gold Plus">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="7 Gold Plus" />
   			<File>7 Gold Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="7 Gold">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="7 Gold" />
   			<File>7 Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A2i">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="A2i" />
   			<File>A2i.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AB Channel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="AB Channel" />
   			<File>AB Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Acqua TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Canale Acqua">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="ACI Sport TV" />
+  			<File>ACI Sport TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Acqua TV" />
+				<Item Name="Canale Acqua">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Acqua TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Air Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Air Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Air Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Al Arabiya">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Al Arabiya" />
   			<File>Al Arabiya.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Al Jazeera Channel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Al Jazeera Channel.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Al Jazeera English HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Al Jazeera English HD" />
   			<File>Al Jazeera English HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Al Jazeera English">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Al Jazeera Channel" />
+  			<File>Al Jazeera Channel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Al Jazeera English" />
   			<File>Al Jazeera English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Al Masriyah">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Al Masriyah" />
   			<File>Al Masriyah.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Alaraby TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Alaraby TV" />
   			<File>Alaraby TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Alice">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Alice">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Alice.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Alma TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Alma TV - Alice &amp; Marcopolo">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Alma TV - Alice &amp; Marcopolo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Alma TV" />
   			<File>Alma TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Amici Animali Lombardia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Amici Animali TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Amici Animali Lombardia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Amici Animali TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Amici Animali TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Antenna 3">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="AntennaTre">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="AntennaTre HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Antenna 3" />
+				<Item Name="AntennaTre HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="AntennaTre">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Antenna 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Antichita Chiossone">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Antichita Chiossone" />
   			<File>Antichita Chiossone.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Archi News 24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Archi News 24" />
   			<File>Archi News 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arirang">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arirang" />
   			<File>Arirang.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte Atelier">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte Atelier" />
   			<File>Arte Atelier.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte HD" />
   			<File>Arte HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte Investimenti">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte Investimenti" />
   			<File>Arte Investimenti.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte Italia 124">
-				<Provider>Terrestrial (Milan)</Provider>
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte Italia 124">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Arte Italia 124.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte Italia 125">
-				<Provider>Terrestrial (Milan)</Provider>
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte Italia 125">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Arte Italia 125.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte E Moda">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Arte Moda">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte E Moda">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Arte Moda" />
   			<File>Arte Moda.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Arte" />
   			<File>Arte.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Artetivu">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Artetivu" />
   			<File>Artetivu.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Aurora Arte">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Aurora Arte" />
   			<File>Aurora Arte.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Babayaga TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Babayaga TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Babayaga TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Babel TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Babel TV" />
   			<File>Babel TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Baraem">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Baraem" />
   			<File>Baraem.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC Arabic">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="BBC Arabic" />
   			<File>BBC Arabic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC World News">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="BBC World News" />
   			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bergamo TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Bergamo TV...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Bergamo TV...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Bergamo TV" />
   			<File>Bergamo TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BFC">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="BFC" />
   			<File>BFC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bloomberg">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Bike">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Bike.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bloomberg European TV" />
+				<Item Name="Bloomberg" />
   			<File>Bloomberg.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Boing Plus">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Roma)</Provider>
-			</Item>
+				<Item Name="Boing Plus">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
   			<File>Boing Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Boing">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Boing Provvisorio">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Boing Provvisorio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Boing">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Boing.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Brescia.TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Brescia.TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Brescia.TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BVN">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="BVN" />
   			<File>BVN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CafeTV 24">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="CafeTV24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Di.TV Cafe' 24...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="ByoBlu">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>ByoBlu.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="CafeTV 24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="CafeTV24" />
+				<Item Name="Di.TV Cafe' 24...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>CafeTV24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cagnola">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Cagnola" />
   			<File>Cagnola.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Camera dei Deputati">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Camera dei Deputati" />
   			<File>Camera dei Deputati.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal Algerie">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canal Algerie" />
   			<File>Canal Algerie.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 11">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Focus 11">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale 11">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Focus 11">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale 11.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 21">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canale 21" />
   			<File>Canale 21.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 227">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale 227">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale 227.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 5 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Canale5 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale 5 HD" />
+				<Item Name="Canale5 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale 5 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 5">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Canale5">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale 5" />
+				<Item Name="Canale5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 7 Fondi">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canale 7 Fondi" />
   			<File>Canale 7 Fondi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale 7 Puglia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canale 7 Puglia" />
   			<File>Canale 7 Puglia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 11">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canale 10">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="Canale 10+1">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="Canale Dieci" />
+  			<File>Canale Dieci.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canale Italia 11" />
   			<File>Canale Italia 11.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 161">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Cantando Ballando">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 161" />
+				<Item Name="Cantando Ballando">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 161.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 2">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 4">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 4">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 5">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 6">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 6">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 6.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 83">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 83">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 83.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia 84">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia 84">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia 84.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Canale Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Canale Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale Zero">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canale Zero" />
   			<File>Canale Zero.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canale10">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Canale10" />
   			<File>Canale10.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Capri Casino">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Capri Casino'">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Capri Casino'">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Capri Casino" />
   			<File>Capri Casino.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Capri Fashion">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Capri Fashion">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Capri Fashion.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Capri Store">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Capri Store">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Capri Store.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Capri Television">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Capri Television HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Capri Television HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Capri Television">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Capri Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cartoonito">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Cartoonito">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Cartoonito.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Case Design Stili">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="CaseDesignStili">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Case Design Stili" />
+				<Item Name="CaseDesignStili">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Case Design Stili.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CCTV-4">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="CCTV-4" />
   			<File>CCTV-4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Centro Televisivo Vaticano">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Centro Televisivo Vaticano" />
   			<File>Centro Televisivo Vaticano.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ceramicanda TG Architettura">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Ceramicanda TG Architettura" />
   			<File>Ceramicanda TG Architettura.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CGTN Documentary">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="CGTN Documentary" />
   			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CGTN">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="CGTN" />
   			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Challenger TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Challenger TV" />
   			<File>Challenger TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Channel 24">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Channel 24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Channel 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Channel One Russia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Channel One Russia" />
   			<File>Channel One Russia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Chiesa TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Chiesa TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Chiesa TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cielo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Cielo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Cielo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cine34">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Cine34">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Cine34.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Class TV Moda">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Class TV Moda" />
   			<File>Class TV Moda.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNBC">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="CNBC" />
   			<File>CNBC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Daystar">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Cusano Italia TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+  			<File>Cusano Italia TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Davvero TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Davvero TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Daystar" />
   			<File>Daystar.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Deluxe 139">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Deejay TV HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="Deejay TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+  			<File>Deejay TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Deluxe 139">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Deluxe 139.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Deutsche Welle">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Deutsche Welle" />
   			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dipre TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Dipre TV" />
   			<File>Dipre TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DMAX">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>DMAX.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="DMAX +1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>DMAX Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="DMAX HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="DMAX HD" />
   			<File>DMAX HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Donna Sport TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="DonnaTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="DMAX">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>DMAX.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Donna Shopping" />
+				<Item Name="DonnaShopping">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="DonnaShopping182">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Donna Shopping.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Donna Sport TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="DonnaTV" />
   			<File>DonnaTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="E TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="E TV" />
   			<File>E TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eliseo TV Medjugorje">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Eliseo TV Medjugorje" />
   			<File>Eliseo TV Medjugorje.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Elive Brescia TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Elive Brescia TV" />
   			<File>Elive Brescia TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Elive Roma TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Elive Roma TV" />
   			<File>Elive Roma TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Entertainment Fact">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Entertainment Fact">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Entertainment Fact.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Espansione TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Espansione TV HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="EspansioneTV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Epiqa">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Epiqa.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Espansione TV HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Espansione TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="EspansioneTV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Espansione TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Euronews HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Euronews HD" />
   			<File>Euronews HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Euronews">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Euronews Italian" />
+				<Item Name="Euronews" />
   			<File>Euronews.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Europa TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Europa TV" />
   			<File>Europa TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EWTN">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="EWTN" />
   			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Extra TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Extra TV" />
   			<File>Extra TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fab News">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Fab News">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Fab News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fabric Live">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Fabric Live">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Fabric Live.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fashion TV UHD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Fashion TV HD" />
   			<File>Fashion TV UHD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fashion TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Fashion TV UHD" />
+				<Item Name="FTV UHD" />
+  			<File>Fashion TV UHD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Fashion TV" />
+				<Item Name="FashionTV L'Original" />
   			<File>Fashion TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fight Network">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="FN Sport">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Fight Network" />
+				<Item Name="FN Sport">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Fight Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fine Living">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Fine Living" />
   			<File>Fine Living.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fire TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Fire TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Fire TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Focus">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Focus">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Focus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Food Network">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Food Network.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Food Network HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Food Network HD" />
   			<File>Food Network HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 2">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Food Network">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Food Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="France 2" />
   			<File>France 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 - English">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>France 24 - English.png</File>
+				<Item Name="France 24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="France 24 en Francais" />
+  			<File>France 24 en Francais.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="France 24 - Francais">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>France 24 - Francais.png</File>
+				<Item Name="France 24 in English" />
+  			<File>France 24 in English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 HD - English">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>France 24 HD - English.png</File>
+				<Item Name="France 24 HD en Francais" />
+  			<File>France 24 HD en Francais.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 HD - Francais">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>France 24 HD - Francais.png</File>
+				<Item Name="France 24 HD in English" />
+  			<File>France 24 HD in English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Frisbee">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Frisbee">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Frisbee.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Gari TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Gari TV" />
   			<File>Gari TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Giallo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Giallo.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Giallo HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Giallo HD" />
   			<File>Giallo HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Gold TV Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Giallo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Giallo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Giornale Radio TV" />
+				<Item Name="Giornale Radio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Giornale Radio TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="GM24.IT HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="GM24.IT">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="GM24" />
+  			<File>GM24.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Gold TV Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Gold TV Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Gold TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Gold TV" />
   			<File>Gold TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HGTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>HGTV.png</File>
+				<Item Name="Go-TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Go-TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HGTV HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="HGTV HD" />
   			<File>HGTV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hotbird 4K1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="HGTV - Home&amp;Garden">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="HGTV" />
+  			<File>HGTV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Hotbird 4K1" />
   			<File>Hotbird 4K1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HSE24 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>HSE24 HD.png</File>
+				<Item Name="Horse TV HD" />
+				<Item Name="Horse TV" />
+  			<File>Horse TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HSE24">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>HSE24.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="I24 News English">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="I24 News English" />
   			<File>I24 News English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="I24 News French">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="I24 News French" />
   			<File>I24 News French.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="IES TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="IES TV" />
   			<File>IES TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ILike.TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="ILike.TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>ILike.TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Iris">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Iran International" />
+  			<File>Iran International.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Iris">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Iris.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 1 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Italia1 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 1 HD" />
+				<Item Name="Italia1 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Italia1">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 1" />
+				<Item Name="Italia1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 121">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 121">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 121.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 126">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 126">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 126.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 127">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 127">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 127.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 135">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 135">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 135.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 136">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 136">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 136.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 141">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 141">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 141.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 142">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 142">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 142.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 150">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 150">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 150.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 154">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 154">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 154.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 155">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 155">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 155.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 156">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 156">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 156.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 159">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 159">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 159.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 160">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 160">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 160.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 2">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Mediaset Italia Due">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 2" />
+				<Item Name="Mediaset Italia Due">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 53">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 53">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 53.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 8 Canale 78">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Italia 8 Canale__78">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Italia 8 Canale_78">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 8 Canale 78">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Italia 8 Canale__78">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Italia 8 Canale_78">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 8 Canale 78.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia 8 Prestige">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia 8 Prestige">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia 8 Prestige.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia Channel">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia Channel">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia Network Television">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia Network Television">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia Network Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia +">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Italia +">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Italia Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italia.TV Channel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Italia.TV Channel" />
   			<File>Italia.TV Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Italian Fishing TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Italian Fishing TV" />
   			<File>Italian Fishing TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ITR">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="ITR" />
   			<File>ITR.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ITV Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="ITV Italia" />
   			<File>ITV Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="JeemTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="JeemTV" />
   			<File>JeemTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Juwelo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Juwelo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Juwelo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="K2">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="K2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>K2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KBC World HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="KBC World HD" />
   			<File>KBC World HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 242">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="La242">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="La 242" />
+				<Item Name="La242">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>La 242.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 4 Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="La 4 Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>La 4 Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 6">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="LA6">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="LA6 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="La 6" />
+				<Item Name="LA6">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="LA6 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>La 6.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La TV Dei Tifosi">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="La TV Dei Tifosi" />
   			<File>La TV Dei Tifosi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="La TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>La TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 5">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="La5">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="La 5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="La5" />
   			<File>La5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LA7">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>LA7.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="LA7 HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>LA7 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="LA7d">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>LA7d.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="LA7d HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="LA7d HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>LA7d HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 8">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="La8">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="LA7d">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>LA7d.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LA7 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>LA7 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LA7">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>LA7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="La 8">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="La8" />
   			<File>La8.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 9">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="La9">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="La 9">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="La9" />
   			<File>La9.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Auto Del Giorno">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="LAuto Del Giorno">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Auto Del Giorno">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="LAuto Del Giorno" />
   			<File>LAuto Del Giorno.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lazio TV Frosinone">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Lazio TV Frosinone.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Lazio TV Latina">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Lazio TV Latina.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Lazio TV Roma">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Lazio TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
   			<File>Lazio TV Roma.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LeoVegas TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="LeoVegas TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>LeoVegas TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Life Channel Fashion TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Life Channel Fashion TV.png</File>
+				<Item Name="LifeGate">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>LifeGate.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Linea Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Linea Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Linea Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lodi Crema TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Lodi Crema TV...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Lodi Crema TV...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Lodi Crema TV" />
   			<File>Lodi Crema TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lombardia Sat">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Lombardia Sat" />
   			<File>Lombardia Sat.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lombardia 1 TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Lombardia TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Lombardia TV HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Lombardia 1 TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Lombardia TV HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Lombardia TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Lombardia TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LoveWorld TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>LoveWorld TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Luxo">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Luxo" />
   			<File>Luxo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Marcopolo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Marcopolo Diari">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Marcopolo Diari">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Marcopolo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Marcopolo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Maria Vision...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Maria Vision Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Maria Vision Italia" />
+				<Item Name="Maria Vision...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Maria Vision Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Match Music">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Match Music" />
   			<File>Match Music.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Matrix TV Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Matrix TV Italia" />
   			<File>Matrix TV Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Medi 1 TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Medi 1 TV" />
   			<File>Medi 1 TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mediaset Extra">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Mediaset Extra.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Mediaset Extra HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Mediaset Extra HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Mediaset Extra HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mediaset TGCom24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="TGCom24">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Mediaset Extra">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Mediaset Extra.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Mediaset TGCom24" />
+				<Item Name="TGCom24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Mediaset TGCom24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mediatext">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Mediatext.IT">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Mediatext" />
+				<Item Name="Mediatext.IT">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Mediatext.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mezzo">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Mezzo" />
   			<File>Mezzo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Milanow">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Milanow">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Milanow.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Motor Trend">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Motor Trend.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Motor Trend HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Motor Trend HD" />
   			<File>Motor Trend HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Motori TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Motori TV Lombardia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Motor Trend">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Motor Trend.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Motori TV Lombardia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Motori TV" />
   			<File>Motori TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MSChannel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="MSChannel" />
   			<File>MSChannel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MSMotorTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="MSMotorTV" />
   			<File>MSMotorTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Museum">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Museum.png</File>
+				<Item Name="MSSport">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>MSSport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Muzik TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Museum TV" />
+  			<File>Museum TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MyZen TV 4K" />
+  			<File>MyZen TV 4K.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Muzik TV" />
   			<File>Muzik TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="My Zen TV 4K">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>My Zen TV 4K.png</File>
+				<Item Name="NASA TV UHD" />
+  			<File>NASA TV UHD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NASA UHD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>NASA UHD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="NBC Milano We Play Again">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="NBC Milano We Play Again">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>NBC Milano We Play Again.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NHK World">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="NHK World" />
   			<File>NHK World.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NoiTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="NoiTV" />
   			<File>NoiTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nove HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Nove HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Nove HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nove">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Nove">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Nove.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NSL Radio TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="NSL Radio TV" />
+				<Item Name="NSL">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
   			<File>NSL Radio TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nuvola61">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Nuova TV Nazionale" />
+  			<File>Nuova TV Nazionale.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nuvola61">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Nuvola61.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Odeon 24">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Odeon TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Odeon TV.png</File>
+				<Item Name="Odeon 24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Odeon 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="OK Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="OKItalia TV1">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="OKItalia TV2">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="OK Italia" />
+				<Item Name="OKItalia TV1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="OKItalia TV2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>OK Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="OK Shop">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="OK Shop" />
   			<File>OK Shop.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Onda Novara TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Onda Novara TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Onda Novara TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="One TV NBC">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="One TV NBC" />
   			<File>One TV NBC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="One TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="One TV" />
   			<File>One TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Orler TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Orler TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Orler TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Padre Pio TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Padre Pio TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Padre Pio TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Paramount Network">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Paramount Network HD" />
+  			<File>Paramount Network HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Paramount Network">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Paramount Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Parole di Vita">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Parole di Vita">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Parole di Vita.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Partenope TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Partenope TV" />
   			<File>Partenope TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Pianeta TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Pianeta TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Pianeta TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Play.me">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Playme">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Play.me" />
+				<Item Name="Playme">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Play.me.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="PopEconomy">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="PopEconomy">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>PopEconomy.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Free">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Prima Free" />
   			<File>Prima Free.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Primantenna">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Primantenna">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Primantenna.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Primarete">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Primarete HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Primarete Lombardia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Primarete HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Primarete Lombardia" />
+				<Item Name="Primarete">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Primarete Lombardia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prontogold">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Prontogold" />
   			<File>Prontogold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="QSVS">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="QSVS" />
   			<File>QSVS.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="QVC HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="QVC HD" />
   			<File>QVC HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="QVC">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="QVC">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>QVC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="R101">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="R101 TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="R101 TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="R101" />
   			<File>R101.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio 4 You">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Radio 4 You TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio 4 You TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio 4 You">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio 4 You.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Birikina">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radio Birikina TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Birikina TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Birikina" />
   			<File>Radio Birikina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Bruno">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Radio Bruno TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Bruno TV" />
+				<Item Name="Radio Bruno">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Bruno TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Classica">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Classica">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Classica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Delta International">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Delta International">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Delta International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Freccia HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RadioFreccia HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Freccia HD" />
+				<Item Name="RadioFreccia HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Freccia HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Freccia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RadioFreccia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Freccia" />
+				<Item Name="RadioFreccia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Freccia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Italia Trend TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radio Italia Trend TV HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Radio Italia Trend TV.png</File>
+				<Item Name="Radio Italia Trend TV HD" />>
+				<Item Name="Radio Italia Trend" />
+  			<File>Radio Italia Trend.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Italia TV HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Italia TV HD.png</File>
+				<Item Name="Radio Italia TV HD" />
+				<Item Name="Radio Italia" />
+  			<File>Radio Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Italia TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RadioItaliaTV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Italia TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Radio Kiss Kiss">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radio Kiss Kiss TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Kiss Kiss TV" />
+				<Item Name="Radio Kiss Kiss" />
   			<File>Radio Kiss Kiss.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Milan Inter">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TeleMilano Radio Milan Inter">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Milan Inter">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TeleMilano Radio Milan Inter">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Milan Inter.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Monte Carlo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Monte Carlo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Monte Carlo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Musica TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Musica TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Musica TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Number One">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RN1TV...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Norba TV" />
+				<Item Name="Radionorba TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Bari -->
+				</Item>
+  			<File>Radio Norba TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Number One" />
+				<Item Name="RN1TV...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Number One.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Popizz">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Popizz">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Popizz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Radio TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Radio TV" />
   			<File>Radio Radio TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Zeta">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Zeta Italiana">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Zeta.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Radio Zeta HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Zeta HD" />
   			<File>Radio Zeta HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radionorba TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Radionorba TV.png</File>
+				<Item Name="Radio Zeta">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Zeta Italiana">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Radio Zeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 1 HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 1 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 1">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 2 HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 2 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 2">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 3 BIS FJK">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai 3 BIS FJK" />
   			<File>Rai 3 BIS FJK.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 3 HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 3 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 3">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai 3 TGR Lombardia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 3" />
+				<Item Name="Rai 3 TGR Lombardia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 4 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai 4 HD" />
   			<File>Rai 4 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 4">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Rai 4.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Rai 4K">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai 4K" />
   			<File>Rai 4K.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 5 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai 4">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Rai 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Rai 5 HD" />
   			<File>Rai 5 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 5">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai 5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Gulp HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Gulp HD" />
   			<File>Rai Gulp HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Gulp">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Gulp">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Gulp.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Ladinia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Ladinia" />
   			<File>Rai Ladinia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Movie HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Movie HD" />
   			<File>Rai Movie HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Movie">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Movie">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Movie.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai News24 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai News24 HD" />
   			<File>Rai News24 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai News24">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai News24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai News24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Premium HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Premium HD" />
   			<File>Rai Premium HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Premium">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Premium">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Premium.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Scuola HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Scuola HD" />
   			<File>Rai Scuola HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Scuola">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Scuola">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Scuola.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Sport + HD">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Sport + HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Sport Plus HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Sport">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Sport">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Storia HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Storia HD" />
   			<File>Rai Storia HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Storia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Storia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Storia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Sudtirol">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai Sudtirol" />
   			<File>Rai Sudtirol.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai YoYo HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rai YoYo HD" />
   			<File>Rai YoYo HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai YoYo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai YoYo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai YoYo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RDS Social TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RDS Relax" />
+  			<File>RDS Relax.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RDS Social TV" />
   			<File>RDS Social TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Real Time">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Real Time.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Real Time +1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Real Time Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Real Time HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Real Time HD" />
   			<File>Real Time HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Realitatea Plus">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Real Time">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Real Time.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Realitatea Plus" />
   			<File>Realitatea Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete 182">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rete182">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rete 182" />
+				<Item Name="Rete182">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rete 182.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete 4 HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rete4 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rete 4 HD" />
+				<Item Name="Rete4 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rete 4 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete 4">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rete4">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rete 4" />
+				<Item Name="Rete4">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rete 4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete 55">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Rete 55 Brescia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rete 55 Brescia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Rete 55">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rete 55.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rete Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rete Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete Oro">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rete Oro" />
   			<File>Rete Oro.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete79">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Rete79 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rete79 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Rete79">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rete79.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Retecapri">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Retecapri">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Retecapri.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Reteconomy">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Reteconomy" />
   			<File>Reteconomy.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete 7">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Retesette">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rete 7">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Retesette" />
   			<File>Retesette.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Retesole">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Retesole">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
   			<File>Retesole.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Babel-Romit TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Romit TV">
-				<Provider>Terrestrial (Roma)</Provider>
-			</Item>
+				<Item Name="Rochannel Diaspora">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Rochannel Diaspora.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Roma Ch 71">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+  			<File>Roma Ch 71.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Romit TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
   			<File>Romit TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rossiya 24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Rossiya 24" />
   			<File>Rossiya 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RT Documentary HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RT Documentary HD" />
   			<File>RT Documentary HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RT">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RT HD" />
   			<File>RT.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete Brescia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="ReteBrescia...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="RTB Rete Brescia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RT HD" />
+  			<File>RT.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Rete Brescia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="ReteBrescia...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="RTB Rete Brescia" />
   			<File>RTB Rete Brescia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 102.5">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RTL 102.5 TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="RTL 102.5 TV HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="RTL 102.5 News ASPI" />
+				<Item Name="RTL 102.5 News" />
+  			<File>RTL 102.5 News.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTL 102.5 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="RTL 102.5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>RTL 102.5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 102.5 Doc">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>RTL 102.5 Doc.png</File>
+				<Item Name="RTR 99" />
+				<Item Name="RTR99TV Roma">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+  			<File>RTR 99.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTR Planeta">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RTR Planeta" />
   			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTS 1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RTS 1" />
   			<File>RTS 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="San Marino RTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RTV Sport" />
+  			<File>RTV Sport.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="San Marino RTV" />
+				<Item Name="SMTv San Marino HD" />
   			<File>San Marino RTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="San Marino RTV HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>San Marino RTV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="SeilaTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="SeilaTV...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="SeilaTV...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SeilaTV" />
   			<File>SeilaTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Senato della Repubblica">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Senato della Repubblica" />
   			<File>Senato della Repubblica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sender Neu Jerusalem">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Sender Neu Jerusalem" />
   			<File>Sender Neu Jerusalem.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Serenissima">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Serenissima TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Serenissima TV" />
+				<Item Name="Serenissima">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Serenissima TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sesta Rete">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Sestarete">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Sesta Rete" />
+				<Item Name="Sestarete">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Sesta Rete.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Shopping Italia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Shopping Italia 164">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Sestarete Catania" />
+  			<File>Sestarete Catania.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sharing TV" />
+  			<File>Sharing TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Shopping Italia 164" />
+				<Item Name="Shopping Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Shopping Italia 164.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky TG24">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Sky TG24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Sky TG24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sol Regina TV Video Cremona">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="SolRegina TV VideoCremona">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="SolReginaPO HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Video Cremona">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Sol Regina TV Video Cremona" />
+				<Item Name="SolRegina TV VideoCremona">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SolReginaPO HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Video Cremona">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Sol Regina TV Video Cremona.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sonlife Broadcasting Network">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Sonlife Broadcasting Network" />
+				<Item Name="Sonlife" />
   			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Spike">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Spike HD" />
+				<Item Name="Spike">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Spike.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport Canale 11">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Sport Canale 11" />
   			<File>Sport Canale 11.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SportChannel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="SportChannel.IT">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="SportChannel.IT">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SportChannel" />
   			<File>SportChannel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sportitalia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Sportitalia HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Sportitalia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Sportitalia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="StandBy TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="StandBy TV" />
   			<File>StandBy TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Studio 1">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Studio1 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Studio 1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Studio1 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Studio 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Super TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="SuperTV BG">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="SuperTV HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="SuperTV MI">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="SuperTV VA">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="SuperTV BG">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SuperTV HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SuperTV MI">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SuperTV VA">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Super TV" />
   			<File>Super TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Super!">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="SuperSix HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="SuperSix">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>SuperSix.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Super!">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Super.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SuperNova">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="SuperNova" />
   			<File>SuperNova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SuperTennis">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="SuperTennis">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>SuperTennis.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="T9 TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="T9 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="T9 TV" />
+				<Item Name="T9">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
   			<File>T9 TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tef Channel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tef Channel" />
   			<File>Tef Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele A Piu">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele A Piu" />
   			<File>Tele A Piu.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Akery">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Akery" />
   			<File>Tele Akery.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Amica">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele Amica">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Tele Amica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Donna">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele Donna">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Tele Donna.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Mantova">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele Mantova">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Tele Mantova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Moda">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Moda" />
   			<File>Tele Moda.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Monza Brianza 11">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Monza Brianza 11" />
   			<File>Tele Monza Brianza 11.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Pontina">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Pontina" />
   			<File>Tele Pontina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Ritmo">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Tele Ritmo...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele Ritmo...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Tele Ritmo" />
   			<File>Tele Ritmo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Roma Uno">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Roma Uno" />
   			<File>Tele Roma Uno.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Tuscolo">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Tuscolo" />
   			<File>Tele Tuscolo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele5">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele5" />
   			<File>Tele5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Ambiente">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TeleAmbiente TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tele Ambiente">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TeleAmbiente TV" />
   			<File>TeleAmbiente TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TeleBoario">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TeleBoario">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TeleBoario.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecampione">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telecampione">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telecampione.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecity 1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Telecity MI">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telecity MI HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telecity_MI">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telecity 1" />
+				<Item Name="Telecity MI HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telecity MI">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telecity_MI">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telecity 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecity 7 Gold">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Telecity 7 Gold Lombardia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telecity 7 Gold Lombardia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telecity 7 Gold" />
   			<File>Telecity 7 Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecolor">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telecolor HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telecolor HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telecolor">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telecolor.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecolore">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Telecolore" />
   			<File>Telecolore.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecupole">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Telecupole...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telecupole...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telecupole" />
   			<File>Telecupole.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telelombardia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telelombardia HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telelombardia HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telelombardia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telelombardia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telemarket">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Telemarket" />
   			<File>Telemarket.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TeleMilano Piu Blu Lombardia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Telemilano Più Blu Lombardia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TeleMilano Più Blu Lombardia +1">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telemilano Più Blu Lombardia HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TeleMilano Più Blu Lombardia +1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telemilano Più Blu Lombardia HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TeleMilano Piu Blu Lombardia" />
+				<Item Name="Telemilano Più Blu Lombardia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TeleMilano Piu Blu Lombardia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TeleMilano">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Tele TV">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TeleMilano Expo">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TeleMilano Expo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TeleMilano" />
   			<File>TeleMilano.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TeleMonteGiove">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TeleMonteGiove" />
   			<File>TeleMonteGiove.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telenova">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telenova 2">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telenova 4">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telenova 5">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telenova HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telenova+1">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telenova 2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telenova 4">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telenova 5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telenova HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telenova+1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telenova">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telenova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telepace">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Telepace...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telepace...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telepace" />
   			<File>Telepace.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Pavia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telepavia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele Pavia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telepavia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telepavia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telereporter">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telereporter HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Telereporter HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telereporter">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Telereporter.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Teleroma 56">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Teleroma 56" />
   			<File>Teleroma 56.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Teleromagna">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Teleromagna" />
   			<File>Teleromagna.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele7laghi">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telesettelaghi">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Telesettelaghi Due">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telesettelaghi Plus">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Telesettelaghi Tre">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tele7laghi">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telesettelaghi Due">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telesettelaghi Plus">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telesettelaghi Tre">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Telesettelaghi" />
   			<File>Telesettelaghi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TeleSur">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TeleSur" />
   			<File>TeleSur.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Teletutto">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="TT - Brescia Insieme">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TT - Teletutto">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Teletutto" />
+				<Item Name="TT - Brescia Insieme">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TT - Teletutto">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Teletutto.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TeleUnica">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Unica...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TeleUnica" />
+				<Item Name="Unica...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TeleUnica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Teleuniverso">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Teleuniverso" />
   			<File>Teleuniverso.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Television Tunisienne 1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Television Tunisienne 1" />
   			<File>Television Tunisienne 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TBN Italia">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Televisione Cristiana in Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TBN Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Televisione Cristiana in Italia" />
   			<File>Televisione Cristiana in Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tesory Channel">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Tesory Channel">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Tesory Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TG Norba 24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TG Norba 24" />
   			<File>TG Norba 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="The Word Network">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="The Word Network" />
   			<File>The Word Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Top Calcio">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Top Calcio 24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Mondo Calcio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Top Calcio 24" />
+				<Item Name="Top Calcio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Top Calcio 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Top Crime">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="TopCrime">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Top Crime" />
+				<Item Name="TopCrime">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Top Crime.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Top Gusto">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Top Gusto - C6">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Top Gusto - C6">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Top Gusto" />
   			<File>Top Gusto.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Top Planet">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Top Planet" />
   			<File>Top Planet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Top Tech">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Top Tech">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Top Tech.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travelxp 4K HDR">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Travelxp 4K HDR" />
   			<File>Travelxp 4K HDR.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRC">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TRC" />
   			<File>TRC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tricks">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Tricks" />
   			<File>Tricks.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRM H24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TRM H24" />
   			<File>TRM H24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rete 82 Plus">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TRS Rete 82">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TRM13" />
+  			<File>TRM13.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Rete 82 Plus">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TRS Rete 82" />
   			<File>TRS Rete 82.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRS HD-Evergreen">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="TRS-Evergreen">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TRS HD-Evergreen">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="TRS-Evergreen">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TRS-Evergreen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRS3 TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TRS3 TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TRS3 TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRT Turk">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TRT Turk" />
   			<File>TRT Turk.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRT World HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TRT World HD" />
   			<File>TRT World HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRT World">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TRT World" />
   			<File>TRT World.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Art Live">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TV Art Live" />
   			<File>TV Art Live.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV2000">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TV Yes Italia" />
+				<Item Name="TV Yes">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="Yes TV" />
+  			<File>TV Yes Italia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV2000">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TV2000.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV5Monde Europe">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TV5Monde Europe" />
   			<File>TV5Monde Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV7">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TV7" />
   			<File>TV7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV8">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="TV8">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>TV8.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVA Vicenza">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TVA Vicenza" />
   			<File>TVA Vicenza.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVandTV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TVandTV" />
   			<File>TVandTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVP Polonia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TVP Polonia" />
   			<File>TVP Polonia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVR International">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TVR International" />
   			<File>TVR International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVR Voxson">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="TVR Voxson" />
   			<File>TVR Voxson.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="UniNettuno University TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="UniNettuno University TV" />
   			<File>UniNettuno University TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Unire Sat HD">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Unire Sat HD" />
   			<File>Unire Sat HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Uno Extra">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Uno Plus">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Uno Set">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Uno TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Uno Extra">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Uno Plus">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Uno Set">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Uno TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Uno TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Vero">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="CTV HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="Vatican Media" />
+  			<File>Vatican Media.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vero">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Vero.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VH1">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="VH1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>VH1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Victoria TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Victoria TV" />
   			<File>Victoria TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Video Brescia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="VideoBrescia BG">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Video Brescia" />
+				<Item Name="VideoBrescia BG">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Video Brescia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Videolina">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Videolina" />
   			<File>Videolina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VideoNovara">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="VideoNovara...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="VideoNovara...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="VideoNovara" />
   			<File>VideoNovara.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Videostar">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Videostar">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Videostar 2">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Videostar 2 HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Videostar HD">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Videostar Sport">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Videostar 2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Videostar 2 HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Videostar HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Videostar Sport">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Videostar">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Videostar.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viva LItalia Channel">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Virgin Radio TV" />
+				<Item Name="Virgin Radio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>Virgin Radio TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Viva LItalia Channel" />
   			<File>Viva LItalia Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ViVo Pavia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="ViVo Pavia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>ViVo Pavia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Wine TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Well TV" />
+				<Item Name="WellTV" />
+  			<File>Well TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Wine TV" />
   			<File>Wine TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Winga TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Winga TV" />
   			<File>Winga TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Zelig Sport">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Zelig TV">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Zelig Sport">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Zelig TV" />
   			<File>Zelig TV.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>
 		<Channel>
-			<Item Name="Deutsche Welle">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Deutsche Welle" />
   			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dimensione Suono Due Soft">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Dimensione Suono Due Soft.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Dimensione Suono Roma">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Dimensione Suono Roma" />
+				<Item Name="DimSuono Roma" />
   			<File>Dimensione Suono Roma.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disco Radio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Dimensione Suono Soft" />
+				<Item Name="DimSuono Soft MI" />
+				<Item Name="DimSuono Soft RM" />
+  			<File>Dimensione Suono Soft.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Disco Radio" />
+				<Item Name="DiscoRadio" />
   			<File>Disco Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="InBlu Radio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="InBlu Radio" />
   			<File>InBlu Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lombardia Radio TV">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Lombardia Radio TV">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Lombardia Radio TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="One Dance">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="One Dance...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="One Dance...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="One Dance" />
   			<File>One Dance.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="R101">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radio R101">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="R101" />
+				<Item Name="Radio R101">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>R101.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio 105">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio 105" />
   			<File>Radio 105.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio 24">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio 24" />
   			<File>Radio 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Alta">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radio Alta...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Alta...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Alta" />
   			<File>Radio Alta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Beckwith Evangelica">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Beckwith Evangelica" />
   			<File>Radio Beckwith Evangelica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Bergamo">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RadioBg'70...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Bergamo" />
+				<Item Name="RadioBg'70...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Bergamo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Buon Consiglio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Buon Consiglio" />
   			<File>Radio Buon Consiglio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Capital">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Capital">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Capital.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Capodistria">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Capodistria" />
   			<File>Radio Capodistria.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Capri">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Capri">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Capri.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Cittanova">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Cittanova">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Cittanova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio City">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RadioCity">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="RadioCity SMI">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio City" />
+				<Item Name="RadioCity">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="RadioCity SMI">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio City.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Deejay">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Cusano Campus" />
+  			<File>Radio Cusano Campus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Deejay">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Deejay.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Eurospin">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="R. Eurospin" />
+				<Item Name="Radio Eurospin" />
   			<File>Radio Eurospin.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Evangelo Torino">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Evangelo Torino">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Evangelo Torino.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio France Internationale">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio France Internationale" />
   			<File>Radio France Internationale.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Freccia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Freccia" />
   			<File>Radio Freccia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Ibiza">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Gamma Stereo" />
+  			<File>Radio Gamma Stereo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Ibiza" />
   			<File>Radio Ibiza.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Iglesias">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Iglesias">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Iglesias.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Italia Anni 60">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Anni 60" />
+				<Item Name="Radio Italia Anni 60" />
   			<File>Radio Italia Anni 60.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="R Italia SMI">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Radio Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="R. Italia S.m.i." />
+				<Item Name="R Italia SMI">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Italia" />
   			<File>Radio Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Juke Box">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Radio Jukebox">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Juke Box">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Jukebox" />
   			<File>Radio Jukebox.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Kiss Kiss">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Kiss Kiss" />
   			<File>Radio Kiss Kiss.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio M2o">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio M2o">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio M2o.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Marconi">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Marconi">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Marconi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Margherita">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Margherita" />
   			<File>Radio Margherita.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Maria">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Maria.png</File>
+				<Item Name="Radio Maria">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Maria Italia" />
+  			<File>Radio Maria Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Mater">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Mater">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Mater.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Mille Note">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radio MilleNote...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio MilleNote...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Mille Note" />
   			<File>Radio Mille Note.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Monte Carlo 2">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Monte Carlo 2" />
   			<File>Radio Monte Carlo 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Monte Carlo">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Monte Carlo">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Monte Carlo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio News 24">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio News 24">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio News 24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Number One">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="RadioNumberOne...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Number One" />
+				<Item Name="RadioNumberOne...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Number One.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Onda Durto">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Onda Durto" />
   			<File>Radio Onda Durto.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Onda Libera">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Onda Libera" />
   			<File>Radio Onda Libera.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Padania">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="Radio Padania Libera">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>Radio Padania Libera.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Radio Ponte">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Ponte.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Radio Popolare">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Popolare" />
   			<File>Radio Popolare.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Punto">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Punto">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Punto.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Radicale">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Radicale" />
   			<File>Radio Radicale.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Radio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Radio" />
   			<File>Radio Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Sound">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio San Marino Classic" />
+  			<File>Radio San Marino Classic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio San Marino" />
+				<Item Name="SMTv San Marino Radio" />
+  			<File>Radio San Marino.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Sintony" />
+  			<File>Radio Sintony.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Sound" />
   			<File>Radio Sound.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Sportiva">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Sportiva" />
   			<File>Radio Sportiva.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Star">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-			<Item Name="VD Radio Star*">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Star">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="VD Radio Star*">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Star.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Swiss Classic">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Swiss Classic" />
   			<File>Radio Swiss Classic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Swiss Jazz">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Swiss Jazz" />
   			<File>Radio Swiss Jazz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Swiss Pop">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Swiss Pop" />
   			<File>Radio Swiss Pop.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Vaticana Italia">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
-  			<File>Radio Vaticana Italia.png</File>
+				<Item Name="Radio Vaticana Europa" />
+				<Item Name="Radio Vaticana Italia">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radio Vaticana" />
+  			<File>Radio Vaticana.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Viva FM">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Viva FM">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Viva FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Voce della Speranza">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Voce della Speranza" />
   			<File>Radio Voce della Speranza.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Web Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Web Italia" />
   			<File>Radio Web Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Yacht">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radio Yacht">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Radio Yacht.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Zeta">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio Zeta" />
   			<File>Radio Zeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radiopace">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Radiopace...">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Radiopace...">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="Radiopace" />
   			<File>Radiopace.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Gr Parlamento">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai GrParlamento">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Gr Parlamento" />
+				<Item Name="Rai GrParlamento">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Gr Parlamento.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Isoradio">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Isoradio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Isoradio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio 1">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai Radio1">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio 1" />
+				<Item Name="Rai Radio1">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio 1 Sport">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai Radio1 Sport">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio 1 Sport" />
+				<Item Name="Rai Radio1 Sport">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio 1 Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio 2">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai Radio2">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio 2" />
+				<Item Name="Rai Radio2">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio 2 Indie">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai Radio2 Indie">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio 2 Indie" />
+				<Item Name="Rai Radio2 Indie">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio 2 Indie.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio 3">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai Radio3">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio 3" />
+				<Item Name="Rai Radio3">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio 3 Classica">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio 3 Classica">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio 3 Classica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio Kids">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio Kids">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio Kids.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio Live">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio Live">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio Live.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio Techete">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-			<Item Name="Rai Radio Techetè">
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio Techete" />
+				<Item Name="Rai Radio Techetè">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio Techete.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai Radio Tutta Italiana">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="Rai Radio Trst A" />
+  			<File>Rai Radio Trst A.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Rai Radio Tutta Italiana">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>Rai Radio Tutta Italiana.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RDS">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RDS" />
   			<File>RDS.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RMC Sport Network">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RMC Sport Network" />
   			<File>RMC Sport Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RSI Rete Due">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RPL - La Tua Radio">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+				<Item Name="RPL" />
+  			<File>RPL.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RSI Rete Due" />
   			<File>RSI Rete Due.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RSI Rete Tre">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RSI Rete Tre" />
   			<File>RSI Rete Tre.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RSI Rete Uno">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RSI Rete Uno" />
   			<File>RSI Rete Uno.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 102.5 Best">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>RTL 102.5 Best.png</File>
+				<Item Name="RTL 102.5 News">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
+  			<File>RTL 102.5 News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 102.5 Groove">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>RTL 102.5 Groove.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTL 102.5 Guardia Costiera">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
-  			<File>RTL 102.5 Guardia Costiera.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTL 102.5">
-				<Provider>Full Name (IT)</Provider>
-				<Provider>Terrestrial (Milan)</Provider>
-			</Item>
+				<Item Name="RTL 102.5">
+					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				</Item>
   			<File>RTL 102.5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTR 99">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="RTR 99" />
   			<File>RTR 99.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Simply Italia">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Simply Italia" />
   			<File>Simply Italia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Simply Radio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Simply Radio" />
   			<File>Simply Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Solo Radio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Solo Radio" />
   			<File>Solo Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Radio Padre Pio">
-				<Provider>Full Name (IT)</Provider>
-			</Item>
+				<Item Name="Radio PadrePio" />
+				<Item Name="Tele Radio Padre Pio" />
   			<File>Tele Radio Padre Pio.png</File>
 		</Channel>
 	</Radio>
