@@ -2467,6 +2467,8 @@
 				<Item Name="CTV HD">
 					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
 				</Item>
+				<Item Name="Vatican Channel" />
+				<Item Name="Vatican Media Europa" />
 				<Item Name="Vatican Media" />
   			<File>Vatican Media.png</File>
 		</Channel>
