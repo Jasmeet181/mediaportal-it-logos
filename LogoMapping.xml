@@ -1596,6 +1596,10 @@
   			<File>Rai 5.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Rai Alto Adige" />
+  			<File>Rai Alto Adige.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Rai Gulp HD" />
   			<File>Rai Gulp HD.png</File>
 		</Channel>
@@ -1674,6 +1678,10 @@
 		<Channel>
 				<Item Name="Rai Sudtirol" />
   			<File>Rai Sudtirol.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Rai Vd'A" />
+  			<File>Rai VdA.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Rai YoYo HD" />
