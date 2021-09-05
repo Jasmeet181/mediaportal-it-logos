@@ -1232,6 +1232,10 @@
   			<File>Muzik TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Napoli International" />
+  			<File>Napoli International.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NASA TV UHD" />
   			<File>NASA TV UHD.png</File>
 		</Channel>
@@ -2859,6 +2863,11 @@
 					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
 				</Item>
   			<File>Radio Star.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Super Sound" />
+				<Item Name="Radio Supersound" />
+  			<File>Radio Super Sound.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio Swiss Classic" />
