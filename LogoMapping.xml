@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		
+		16/10/2021 RTV San Marino HD and RTV Sport added to Terrestrial
 		-->
 	<TV>
 		<Channel>
@@ -225,6 +225,7 @@
   			<File>BFC.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Bike Channel" />
 				<Item Name="Bike">
 					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
 				</Item>
