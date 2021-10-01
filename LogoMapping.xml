@@ -609,11 +609,22 @@
   			<File>Espansione TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Euronews English HD" />
+  			<File>Euronews English HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Euronews HD" />
   			<File>Euronews HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Euronews Italiano" />>
 				<Item Name="Euronews Italian" />
+  			<File>Euronews Italiano.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Euronews Puglia">
+					<Provider>Terrestrial (IT)</Provider><!-- Bari -->
+				</Item>
 				<Item Name="Euronews" />
   			<File>Euronews.png</File>
 		</Channel>
@@ -2480,7 +2491,6 @@
 				<Item Name="CTV HD">
 					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
 				</Item>
-				<Item Name="Vatican Channel" />
 				<Item Name="Vatican Media Europa" />
 				<Item Name="Vatican Media" />
   			<File>Vatican Media.png</File>
