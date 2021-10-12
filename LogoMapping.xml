@@ -2226,8 +2226,11 @@
   			<File>Telenova.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Telepace...">
-					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
+				<Item Name="Telepace HD">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
+				</Item>
+				<Item Name="Telepace">
+					<Provider>Terrestrial (IT)</Provider><!-- Roma -->
 				</Item>
 				<Item Name="Telepace" />
   			<File>Telepace.png</File>
@@ -2925,9 +2928,6 @@
   			<File>Radio Zeta.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Radiopace...">
-					<Provider>Terrestrial (IT)</Provider><!-- Milano -->
-				</Item>
 				<Item Name="Radiopace" />
   			<File>Radiopace.png</File>
 		</Channel>
