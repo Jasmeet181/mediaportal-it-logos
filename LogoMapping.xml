@@ -617,7 +617,7 @@
   			<File>Euronews HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Euronews Italiano" />>
+				<Item Name="Euronews Italiano" />
 				<Item Name="Euronews Italian" />
   			<File>Euronews Italiano.png</File>
 		</Channel>
@@ -1474,7 +1474,7 @@
   			<File>Radio Freccia.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Radio Italia Trend TV HD" />>
+				<Item Name="Radio Italia Trend TV HD" />
 				<Item Name="Radio Italia Trend" />
   			<File>Radio Italia Trend.png</File>
 		</Channel>
